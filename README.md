@@ -1,6 +1,9 @@
-# HLS WebExtensions
+# Web Extension HLS
 
-Allows HLS playback in browsers supporting WebExtensions and MediaSource
+Allows HLS playback in browsers supporting [WebExtensions] and [MediaSource]
+
+[WebExtensions]:https://developer.chrome.com/extensions
+[MediaSource]:https://www.w3.org/TR/media-source/
 
 # Usage
 
@@ -8,7 +11,7 @@ Allows HLS playback in browsers supporting WebExtensions and MediaSource
 2. Click on any m3u8 link inside chrome to play it directly in a new tab
 
 [chrome webstore]: https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof
-[firefox addons]: https://addons.mozilla.org/en-US/firefox/addon/native-hls
+[firefox addons]: https://addons.mozilla.org/en-US/firefox/addon/webextension-hls
 
 # Some Developer Notes
 
